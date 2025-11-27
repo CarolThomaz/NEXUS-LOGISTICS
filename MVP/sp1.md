@@ -24,7 +24,7 @@
 ## 📂 Anexos / Evidências
 - Prints de tela
 
-!(MVP/Imagens/SPRINT 1.png)
+![Print da Sprint 1](Imagens/SPRINT 1.png) 
 A imagem acima demonstra os resultados.
 
 - Códigos Colab
