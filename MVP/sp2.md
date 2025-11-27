@@ -1,12 +1,12 @@
 # 📌 MVP - SPRINT 2
 
 ## 🎯 Objetivo do MVP 
-> Tornar as informações e os visualizadores gráficos mais claros, foco no desenvolvimentos e aprimoramento dos mapas (calor e rotas), afim de analisar os trechos de maiores incidencias/gravidade.
+> Tornar as informações e os visualizadores gráficos mais claros, foco no desenvolvimentos e aprimoramento do mapa de calo (hotspot), afim de analisar os trechos de maiores incidencias/gravidade.
 
 ---
 
 ## 📝 Descrição da Solução
-> Criação de novas medidas para o aprimoramento dos mapas, pesquisas para o desenvolvimento do relatório técnico e a elaboração de tópicos para os slides de apresentação.
+> Criação de novas medidas para o aprimoramento do mapa, a utilização de ferramentas como o ArcGis for Power BI (uma visualização de mapa de dados geográficos), pesquisas para o desenvolvimento do relatório técnico e a elaboração de tópicos para os slides de apresentação.
 ---
 
 ## 📅 Sprint(s) Relacionadas
