@@ -1,4 +1,4 @@
-# 📌 MVP - [SPRINT 1]
+# 📌 MVP - SPRINT 1
 
 ## 🎯 Objetivo do MVP 
 > Reduzir a maior quantidade de arquivos/ informações "desnecessárias" à análise. Para que a ideia central permita a visualização de sinistros que ocorreram devido às condições da infraestrutura viária e geometria das vias.
@@ -14,10 +14,10 @@
 |--------|----------------------------------------------|----------|
 | 01     | [Divisão das funções e exigências da equipe]                    | Concluído |
 | 02     | [Elaboração das user stories]                                   | Concluído |
-| 02     | [Busca e análises das bases de dados]                           | Concluído |
-| 02     | [Tratamento e unificação das bases de dados]                    | Concluído |
-| 02     | [Novos arquivos CSV)]                                           | Concluído |
-| 02     | [Esboço/Rascunho do dashboard]                                  | Concluído |
+| 03     | [Busca e análises das bases de dados]                           | Concluído |
+| 04     | [Tratamento e unificação das bases de dados]                    | Concluído |
+| 05     | [Novos arquivos CSV)]                                           | Concluído |
+| 06     | [Esboço/Rascunho do dashboard]                                  | Concluído |
 
 ---
 
