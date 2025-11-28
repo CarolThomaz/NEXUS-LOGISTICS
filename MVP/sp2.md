@@ -22,14 +22,15 @@
 ## 📂 Anexos / Evidências
 - Prints de tela
 
-![Print](
+![Print](https://github.com/CarolThomaz/NEXUS-LOGISTICS/blob/36fe00725d7f4feacfc8e92a0dde26b4feaa429b/MVP/Imagens/SPRINT%202.png)
 
 A imagem acima demonstra os resultados.
 
-- Códigos Colab
-
 - Slides português/inglês
+
+  [Português](https://www.canva.com/design/DAG1brrEQVc/R8kHJVW_m0_ibBWTSueiog/edit?utm_content=DAG1brrEQVc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+  [Inglês](https://www.canva.com/design/DAG2qeb47VA/LuETRmxoplAHVy-CuieO9Q/edit?utm_content=DAG2qeb47VA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - Relatório Técnico
 
-- Vídeo (MVP)  
