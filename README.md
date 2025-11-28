@@ -15,7 +15,7 @@ Projeto baseado na metodologia Ágil Scrum buscando desenvolver a proatividade, 
 
 
 # Projeto (API) 
-Projeto de logística que tem como foco a solução do problema dado pelo cliente.Assim conseguimos ter uma melhor compreensão sobre o asunto para podermos dad andamento ao projeto.
+Projeto de logística focado em análise e desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo o território nacional.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |    
@@ -27,7 +27,7 @@ Projeto de logística que tem como foco a solução do problema dado pelo client
 
 # Objetivo do Projeto
 
-Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, com o objetivo de promover análises comparativas entre estados e indicadores de riscos, relacionados à geometria das vias, em que a infraestrutura viária, é a causa principal dos sinistros de trânsito em todo o território nacional, referentes aos anos de 2018 a 2024. em municípios com mais 100.000 habitantes.
+Promover a conscientização através de um dashboard interativo com dados agregados de segurança viária relacionados à geometria das vias e alertar sobre trechos de maiores incidências em que a infraestrutura viária, é a causa principal dos sinistros de trânsito em todo o território nacional, referentes aos anos de 2018 a 2024. em municípios com mais 100.000 habitantes.
 
 * Mapeamento de Pontos Críticos - identificar e mapear rodovias e trechos urbanos, federais e estaduais com maior concentração de acidentes, lesões e óbitos;
 * Dados utilizados - PRF (Polícia Rodoviária Federal) e RENAEST (Registro Nacional de Sinistros e Estatísticas de Trânsito);
