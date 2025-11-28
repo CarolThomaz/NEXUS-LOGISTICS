@@ -1,6 +1,7 @@
 # NEXUS-LOGISTICS
 
-![CAPA](
+![CAPA](https://github.com/CarolThomaz/NEXUS-LOGISTICS/blob/c1ab0047c20f2883b062996f77ad746b69999a09/MVP/Imagens/CAPA%20GITHUB.jpg)
+
 # Aprendizado por Projeto Integrado (API) - Análise de Sinistralidade no Trânsito
 
 Projeto baseado na metodologia Ágil Scrum buscando desenvolver a proatividade, trabalho em equipe e entrega de resultados.
