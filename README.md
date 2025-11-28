@@ -1,4 +1,6 @@
 # NEXUS-LOGISTICS
+
+![CAPA](
 # Aprendizado por Projeto Integrado (API) - Análise de Sinistralidade no Trânsito
 
 Projeto baseado na metodologia Ágil Scrum buscando desenvolver a proatividade, trabalho em equipe e entrega de resultados.
