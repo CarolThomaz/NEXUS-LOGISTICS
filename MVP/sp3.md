@@ -1,12 +1,12 @@
 # 📌 MVP - SPRINT 3
 
 ## 🎯 Objetivo do MVP 
-> Tornar as informações e os visualizadores gráficos mais claros, foco no desenvolvimentos e aprimoramento dos mapas (calor e rotas), afim de analisar os trechos de maiores incidencias/gravidade.
+>  Conclusão do Backlog, com o auxilio de filtros, visualizadores gráficos e mapas que visam expor os trechos de maior criticidade/sinistralidade, de modo à atrair atenção  das autoridades governamentais responsáveis pela segurança viária (parte do Sistema Nacional do Trânsito - SNT) conforme estabelecido pelo Código de Trânsito Brasileiro - (CTB), e mesmo à população, afim conscientizá-los.
 
 ---
 
 ## 📝 Descrição da Solução
-> Criação de novas medidas para o aprimoramento dos mapas, pesquisas para o desenvolvimento do relatório técnico e a elaboração de tópicos para os slides de apresentação.
+> Um dashboard que permite analisar uma parcela das principais causas de acidentes ocasionados/ motivados pelas condições da infraestrutura viária (existência de guard rail, canteiro central, acostamento, sinalização, iluminação, situação das pistas) e geometria da via (traçado da via - curvas, reta, subidas, descidas).
 ---
 
 ## 📅 Sprint(s) Relacionadas
