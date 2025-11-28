@@ -24,7 +24,7 @@
 ## 📂 Anexos / Evidências
 - Prints de tela
 
-![Print]([Imagens/SPRINT 1.png](https://github.com/CarolThomaz/NEXUS-LOGISTICS/blob/a8dd5d1c3c7895d312c85407c52630cdedb1f8f6/MVP/Imagens/SPRINT%201.png)
+![Print](https://github.com/CarolThomaz/NEXUS-LOGISTICS/blob/913d12dd04fd668dc5f3ec9588db18f8f0e1c72a/MVP/Imagens/SPRINT%201.png)
 
 
 A imagem acima demonstra os resultados.
