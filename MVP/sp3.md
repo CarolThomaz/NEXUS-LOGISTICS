@@ -36,3 +36,7 @@ A imagem acima demonstra os resultados.
 - Vídeo de apresentação do projeto.
 
 [YOUTUBE]()
+
+- Relatório Técnico
+
+[RELATÓRIO]()
