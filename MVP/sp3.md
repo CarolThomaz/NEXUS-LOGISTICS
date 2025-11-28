@@ -39,4 +39,4 @@ A imagem acima demonstra os resultados.
 
 - Relatório Técnico
 
-[RELATÓRIO]()
+[RELATÓRIO](https://github.com/CarolThomaz/NEXUS-LOGISTICS/blob/e82f957e378241b9f0f8d30089cc39c84fcde4b4/PDF/Relat%C3%B3rio%20T%C3%A9cnico.PDF)
