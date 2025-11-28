@@ -31,7 +31,7 @@ A imagem acima demonstra os resultados.
 
 - Dashboard
 
-[POWER BI]()
+[POWER BI](https://app.powerbi.com/groups/me/reports/24a0ae91-7401-4659-83a9-84cdd116e854?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare&bookmarkGuid=dfbf8ac6-88af-43ab-927e-3422512beb99)
 
 - Vídeo de apresentação do projeto.
 
