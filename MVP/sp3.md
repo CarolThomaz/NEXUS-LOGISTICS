@@ -15,6 +15,8 @@
 | 01     | [Ajuste das informações/layout do dashboard]                    | Em andamento |
 | 03     | [Elaboração do relatório tecnico do projeto]                    | Concluído |
 | 04     | [Atualização do Github]                                         | Em andamento |
+| 05     | [Video de apresentação do projeto]                              | Em andamento |
+
 
 ---
 
@@ -23,11 +25,14 @@
 
 ![Print](https://github.com/CarolThomaz/NEXUS-LOGISTICS/blob/2fb578b72826ee73696c38d8aa733486ad54dbfd/MVP/Imagens/SPRINT%203.jpg)
 
-![Print](
+![Print](https://github.com/CarolThomaz/NEXUS-LOGISTICS/blob/460b302104c749c3cb6dfeb8767ef789744817aa/MVP/Imagens/SPRINT%203.1.jpg)
 
 A imagem acima demonstra os resultados.
-- Slides português/inglês
 
-- Relatório Técnico
+- Dashboard
 
-- Vídeo (MVP)  
+[POWER BI]()
+
+- Vídeo de apresentação do projeto.
+
+[YOUTUBE]()
