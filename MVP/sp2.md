@@ -30,7 +30,11 @@ A imagem acima demonstra os resultados.
 
   [Português](https://www.canva.com/design/DAG1brrEQVc/R8kHJVW_m0_ibBWTSueiog/edit?utm_content=DAG1brrEQVc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+  [PDF](
+  
   [Inglês](https://www.canva.com/design/DAG2qeb47VA/LuETRmxoplAHVy-CuieO9Q/edit?utm_content=DAG2qeb47VA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+   [PDF](https://github.com/CarolThomaz/NEXUS-LOGISTICS/blob/0ebe55086121243b1767f4cc644cca2a9d727617/PDF/Projeto%20integrador%20ingl%C3%AAs%20(1).pdf)
+  
 - Relatório Técnico
 
